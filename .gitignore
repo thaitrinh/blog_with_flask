@@ -1,0 +1,4 @@
+*.mp4
+startbootstrap-clean-blog-gh-pages/
+__pycache__/
+__pycache__/*
